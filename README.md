@@ -1,5 +1,13 @@
 Springboot Assignment 
 
+*Important*
+In logs you will only able to see error, everything like spring banner and logs like application 
+is running is turned off.
+
+Database:-Mysql
+
+Sql Script:- SqlScript.sql is located in SpringbootAssignment->SqlScript.sql 
+
 Maven Dependency
 1) Spring Web
 2) Lombok
@@ -22,6 +30,7 @@ Response Body
 }
 
 Note:- The entier code is structured in Hotel Package and it's sub package
+
 
 ScreenShort
 ﻿﻿<img width="1512" alt="Screenshot 2024-03-07 at 6 21 57 PM" src="https://github.com/A00477939/SpringbootAssignment/assets/144352807/1f01bf2e-0883-44c1-b9b1-cd6bec1c467d">
