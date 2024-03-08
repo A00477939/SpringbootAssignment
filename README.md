@@ -21,6 +21,8 @@ Response Body
   "number": "+91234567890"
 }
 
+Note:- The entier code is structured in Hotel Package and it's sub package
+
 ScreenShort
 ﻿﻿<img width="1512" alt="Screenshot 2024-03-07 at 6 21 57 PM" src="https://github.com/A00477939/SpringbootAssignment/assets/144352807/1f01bf2e-0883-44c1-b9b1-cd6bec1c467d">
 <img width="1512" alt="Screenshot 2024-03-07 at 6 30 10 PM" src="https://github.com/A00477939/SpringbootAssignment/assets/144352807/323335e7-64b7-4c83-bdb3-c1629f2e9546">
