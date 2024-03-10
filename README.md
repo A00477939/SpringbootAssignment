@@ -1,35 +1,27 @@
-Springboot Assignment 
+Spring Boot Assignment Documentation
+Objective: The objective of this document is to provide comprehensive information about a Spring Boot assignment, including details about the database, SQL script, Maven dependencies, API endpoints, and package structure.
+1. Logs Configuration: 
+In the logs, only errors will be displayed. Other information such as Spring banner and messages like "application is running" have been turned off for this assignment.
+2. Database:
+MySQL is used as the database for this assignment.
+3. SQL Script:
+The SQL script named SqlScript.sql is in the SpringbootAssignment directory. This script contains the necessary SQL commands for setting up and configuring the database for the Spring Boot application.
+4. Maven Dependencies: The project includes the following Maven dependencies:
+•	Spring Web
+•	Lombok
+•	Spring Data JPA
+•	Spring Boot DevTools
+5. API Endpoints: 
+1.	Get:-http://localhost:7070/hotel
+2.	Post:-http://localhost:7070/hotel
+1.	Body
+{ "name": "India Hotel", "location": "Surat", "rating": 4, "roomNumber": 10, "number": "+91234567890" }
+6. Port: The application is configured to run on port 7070.
+7. Package Structure: The entire codebase is structured in the Hotel package and its sub-packages.
+8. Git:
+Url:- https://github.com/A00477939/SpringbootAssignment
+Clone:- git@github.com:A00477939/SpringbootAssignment.git
 
-*Important*
-In logs you will only able to see error, everything like spring banner and logs like application 
-is running is turned off.
-
-Database:-Mysql
-
-Sql Script:- SqlScript.sql is located in SpringbootAssignment->SqlScript.sql 
-
-Maven Dependency
-1) Spring Web
-2) Lombok
-3) Spring Data JPA
-4) Spring Boot DevTools
-
-API Endpoints
-1) Get:-http://localhost:7070/hotel
-2) Post:-http://localhost:7070/hotel
-
-Port:- 7070
-
-Response Body
-{
-  "name": "India Hotel",
-  "location": "Surat",
-  "rating": 4,
-  "roomNumber": 10,
-  "number": "+91234567890"
-}
-
-Note:- The entier code is structured in Hotel Package and it's sub package
 
 
 ScreenShort
