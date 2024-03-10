@@ -12,15 +12,13 @@ The SQL script named SqlScript.sql is in the SpringbootAssignment directory. Thi
 •	Spring Data JPA
 •	Spring Boot DevTools
 5. API Endpoints: 
-1.	Get:-http://localhost:7070/hotel
-2.	Post:-http://localhost:7070/hotel
-1.	Body
-{ "name": "India Hotel", "location": "Surat", "rating": 4, "roomNumber": 10, "number": "+91234567890" }
+  1.	Get:-http://localhost:7070/hotel
+  2.	Post:-http://localhost:7070/hotel
+    1.	Body
+      { "name": "India Hotel", "location": "Surat", "rating": 4, "roomNumber": 10, "number": "+91234567890" }
 6. Port: The application is configured to run on port 7070.
 7. Package Structure: The entire codebase is structured in the Hotel package and its sub-packages.
-8. Git:
-Url:- https://github.com/A00477939/SpringbootAssignment
-Clone:- git@github.com:A00477939/SpringbootAssignment.git
+
 
 
 
